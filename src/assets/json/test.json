@@ -1,0 +1,8 @@
+{"product":{
+    "name": "Camisa Overside",
+    "price": "50.000",
+    "images": ["https://i.postimg.cc/Fz79s5ws/image.png","https://i.postimg.cc/Fz79s5ws/image.png","https://i.postimg.cc/Fz79s5ws/image.png"],
+    "avaliblesColors": ["#eb4034","#000000","#ffffff","#3c00ff"],
+    "avaliblesSizes" : ["XL","L","M","S","xs"]
+
+}}
