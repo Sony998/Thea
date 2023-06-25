@@ -10,6 +10,9 @@
   },
   "private": true,
   "dependencies": {
+    "@popperjs/core": "^1.16.1",
+    "@fortawesome/fontawesome-svg-core": "^1.2.35",
+    "@fortawesome/free-solid-svg-icons": "^5.15.3",
     "@angular/animations": "^16.0.0",
     "@angular/common": "^16.0.0",
     "@angular/compiler": "^16.0.0",
